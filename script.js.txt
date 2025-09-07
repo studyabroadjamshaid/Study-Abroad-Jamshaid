@@ -1,0 +1,9 @@
+// Accordion toggle
+document.addEventListener('DOMContentLoaded', function(){
+  document.querySelectorAll('.acc-head').forEach(head => {
+    head.addEventListener('click', function(){
+      const body = head.nextElementSibling;
+      body.style.display = body.style.display === 'block' ? 'none' : 'block';
+    });
+  });
+});

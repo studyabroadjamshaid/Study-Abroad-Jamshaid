@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Study Abroad Guide — Jamshaid Ali</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1>Study Abroad Guide — Jamshaid Ali</h1>
+    <p>Scholarships • Admissions • Visa • Documents</p>
+  </header>
+
+  <main class="container">
+    <section class="intro card">
+      <h2>Welcome</h2>
+      <p>Click the country below to see full details.</p>
+    </section>
+
+    <section class="cards-grid">
+      <a class="country-card" href="china.html">🇨🇳 China</a>
+    </section>
+
+    <section id="contact" class="contact-card card">
+      <h3>Contact & Social</h3>
+      <p>WhatsApp: <a href="https://wa.me/923188846566" target="_blank">03188846566</a></p>
+      <p>Email: <a href="mailto:jmshaid03188846566@gmail.com">jmshaid03188846566@gmail.com</a></p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    © Jamshaid Ali — Study Abroad Guide
+  </footer>
+</body>
+</html>

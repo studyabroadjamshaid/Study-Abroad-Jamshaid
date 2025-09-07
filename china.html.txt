@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>China — Study Abroad Guide</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="back" href="index.html">← Home</a>
+  <h1>China — Study Abroad Guide</h1>
+
+  <section class="accordion" data-accordion>
+    <div class="acc-item">
+      <button class="acc-head">0. CSC Scholarship</button>
+      <div class="acc-body">
+        <p>Details: Application dates, hostel, food, living cost.</p>
+        <p><a href="https://www.campuschina.org/" target="_blank">Official CSC Website</a></p>
+      </div>
+    </div>
+
+    <div class="acc-item">
+      <button class="acc-head">1. CV with Picture</button>
+      <div class="acc-body">
+        <p>Upload professional CV with photo. Format: PDF/Word.</p>
+      </div>
+    </div>
+
+    <div class="acc-item">
+      <button class="acc-head">2. Email Template</button>
+      <div class="acc-body">
+<pre class="code">
+Subject: Request for Acceptance Letter
+
+Respected Prof. [Name],
+
+My name is [Your Name] from [Country].
+I have completed [Your Degree]. 
+I am interested in applying to [Program] at [University].
+
+I would be grateful for your support.
+
+Regards,  
+[Your Name]
+</pre>
+      </div>
+    </div>
+
+    <div class="acc-item">
+      <button class="acc-head">3. Find University</button>
+      <div class="acc-body">
+        <p>Search English-taught programs in official university websites or <a href="https://www.csc.edu.cn/" target="_blank">CSC portal</a>.</p>
+      </div>
+    </div>
+
+    <div class="acc-item">
+      <button class="acc-head">4. English-Taught Programs</button>
+      <div class="acc-body">
+        <p>Many universities in China offer English medium courses, especially in Finance, Business, IT, and Medicine.</p>
+      </div>
+    </div>
+
+    <div class="acc-item">
+      <button class="acc-head">5. English Proficiency Certificate</button>
+      <div class="acc-body">
+        <p>Apply with an English Proficiency Certificate from your last institution if IELTS/TOEFL is not available.</p>
+      </div>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
